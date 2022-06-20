@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dmitrycrockodile/todo-list/static/css/main.1f4b2374.css",
+    "main.js": "/dmitrycrockodile/todo-list/static/js/main.4e18ca61.js",
+    "index.html": "/dmitrycrockodile/todo-list/index.html",
+    "main.1f4b2374.css.map": "/dmitrycrockodile/todo-list/static/css/main.1f4b2374.css.map",
+    "main.4e18ca61.js.map": "/dmitrycrockodile/todo-list/static/js/main.4e18ca61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4b2374.css",
+    "static/js/main.4e18ca61.js"
+  ]
+}
